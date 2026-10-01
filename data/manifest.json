@@ -1,0 +1,238 @@
+{
+ "subjects": [
+  {
+   "name": "Agriculture",
+   "slug": "agriculture",
+   "native": false,
+   "source": "THSC Online (community mirror: thsc.zaxu.xyz)",
+   "externalMoreUrl": null,
+   "paperCount": 9,
+   "schoolCount": 2
+  },
+  {
+   "name": "Ancient History",
+   "slug": "ancient-history",
+   "native": false,
+   "source": "THSC Online (community mirror: thsc.zaxu.xyz)",
+   "externalMoreUrl": null,
+   "paperCount": 3,
+   "schoolCount": 2
+  },
+  {
+   "name": "Biology",
+   "slug": "biology",
+   "native": true,
+   "source": null,
+   "externalMoreUrl": "https://thsc.zaxu.xyz/Year%2012/Trial/Science/Biology/",
+   "paperCount": 100,
+   "schoolCount": 19
+  },
+  {
+   "name": "Business Studies",
+   "slug": "business-studies",
+   "native": false,
+   "source": "THSC Online (community mirror: thsc.zaxu.xyz)",
+   "externalMoreUrl": null,
+   "paperCount": 50,
+   "schoolCount": 21
+  },
+  {
+   "name": "Chemistry",
+   "slug": "chemistry",
+   "native": true,
+   "source": null,
+   "externalMoreUrl": "https://thsc.zaxu.xyz/Year%2012/Trial/Science/Chemistry/",
+   "paperCount": 306,
+   "schoolCount": 35
+  },
+  {
+   "name": "Community and Family Studies",
+   "slug": "community-and-family-studies",
+   "native": false,
+   "source": "THSC Online (community mirror: thsc.zaxu.xyz)",
+   "externalMoreUrl": null,
+   "paperCount": 1,
+   "schoolCount": 1
+  },
+  {
+   "name": "Earth and Environmental Science",
+   "slug": "earth-and-environmental-science",
+   "native": false,
+   "source": "THSC Online (community mirror: thsc.zaxu.xyz)",
+   "externalMoreUrl": null,
+   "paperCount": 4,
+   "schoolCount": 2
+  },
+  {
+   "name": "Economics",
+   "slug": "economics",
+   "native": false,
+   "source": "THSC Online (community mirror: thsc.zaxu.xyz)",
+   "externalMoreUrl": null,
+   "paperCount": 59,
+   "schoolCount": 18
+  },
+  {
+   "name": "Engineering Studies",
+   "slug": "engineering-studies",
+   "native": false,
+   "source": "THSC Online (community mirror: thsc.zaxu.xyz)",
+   "externalMoreUrl": null,
+   "paperCount": 2,
+   "schoolCount": 1
+  },
+  {
+   "name": "English (Paper 1)",
+   "slug": "english-paper-1",
+   "native": false,
+   "source": "THSC Online (community mirror: thsc.zaxu.xyz)",
+   "externalMoreUrl": null,
+   "paperCount": 147,
+   "schoolCount": 43
+  },
+  {
+   "name": "English (Paper 2)",
+   "slug": "english-paper-2",
+   "native": false,
+   "source": "THSC Online (community mirror: thsc.zaxu.xyz)",
+   "externalMoreUrl": null,
+   "paperCount": 84,
+   "schoolCount": 39
+  },
+  {
+   "name": "History Extension",
+   "slug": "history-extension",
+   "native": false,
+   "source": "THSC Online (community mirror: thsc.zaxu.xyz)",
+   "externalMoreUrl": null,
+   "paperCount": 3,
+   "schoolCount": 2
+  },
+  {
+   "name": "Information Processes and Technology",
+   "slug": "information-processes-and-technology",
+   "native": false,
+   "source": "THSC Online (community mirror: thsc.zaxu.xyz)",
+   "externalMoreUrl": null,
+   "paperCount": 3,
+   "schoolCount": 2
+  },
+  {
+   "name": "Legal Studies",
+   "slug": "legal-studies",
+   "native": false,
+   "source": "THSC Online (community mirror: thsc.zaxu.xyz)",
+   "externalMoreUrl": null,
+   "paperCount": 10,
+   "schoolCount": 5
+  },
+  {
+   "name": "Mathematics Advanced",
+   "slug": "mathematics-advanced",
+   "native": true,
+   "source": null,
+   "externalMoreUrl": "https://thsc.zaxu.xyz/Year%2012/Trial/Maths/2U/",
+   "paperCount": 1527,
+   "schoolCount": 63
+  },
+  {
+   "name": "Mathematics Extension 1",
+   "slug": "mathematics-extension-1",
+   "native": true,
+   "source": null,
+   "externalMoreUrl": "https://thsc.zaxu.xyz/Year%2012/Trial/Maths/3U/",
+   "paperCount": 1692,
+   "schoolCount": 58
+  },
+  {
+   "name": "Mathematics Extension 2",
+   "slug": "mathematics-extension-2",
+   "native": true,
+   "source": null,
+   "externalMoreUrl": "https://thsc.zaxu.xyz/Year%2012/Trial/Maths/4U/",
+   "paperCount": 1141,
+   "schoolCount": 61
+  },
+  {
+   "name": "Mathematics Standard",
+   "slug": "mathematics-standard",
+   "native": true,
+   "source": null,
+   "externalMoreUrl": "https://thsc.zaxu.xyz/Year%2012/Trial/Maths/Standard/",
+   "paperCount": 231,
+   "schoolCount": 44
+  },
+  {
+   "name": "Miscellaneous",
+   "slug": "miscellaneous",
+   "native": true,
+   "source": null,
+   "externalMoreUrl": null,
+   "paperCount": 139,
+   "schoolCount": 6
+  },
+  {
+   "name": "Modern History",
+   "slug": "modern-history",
+   "native": false,
+   "source": "THSC Online (community mirror: thsc.zaxu.xyz)",
+   "externalMoreUrl": null,
+   "paperCount": 10,
+   "schoolCount": 6
+  },
+  {
+   "name": "PDHPE",
+   "slug": "pdhpe",
+   "native": false,
+   "source": "THSC Online (community mirror: thsc.zaxu.xyz)",
+   "externalMoreUrl": null,
+   "paperCount": 5,
+   "schoolCount": 2
+  },
+  {
+   "name": "Physics",
+   "slug": "physics",
+   "native": true,
+   "source": null,
+   "externalMoreUrl": "https://thsc.zaxu.xyz/Year%2012/Trial/Science/Physics/",
+   "paperCount": 236,
+   "schoolCount": 31
+  },
+  {
+   "name": "Senior Science",
+   "slug": "senior-science",
+   "native": false,
+   "source": "THSC Online (community mirror: thsc.zaxu.xyz)",
+   "externalMoreUrl": null,
+   "paperCount": 4,
+   "schoolCount": 1
+  },
+  {
+   "name": "Software Design and Development",
+   "slug": "software-design-and-development",
+   "native": false,
+   "source": "THSC Online (community mirror: thsc.zaxu.xyz)",
+   "externalMoreUrl": null,
+   "paperCount": 8,
+   "schoolCount": 7
+  },
+  {
+   "name": "Studies of Religion I",
+   "slug": "studies-of-religion-i",
+   "native": false,
+   "source": "THSC Online (community mirror: thsc.zaxu.xyz)",
+   "externalMoreUrl": null,
+   "paperCount": 1,
+   "schoolCount": 1
+  },
+  {
+   "name": "Studies of Religion II",
+   "slug": "studies-of-religion-ii",
+   "native": false,
+   "source": "THSC Online (community mirror: thsc.zaxu.xyz)",
+   "externalMoreUrl": null,
+   "paperCount": 1,
+   "schoolCount": 1
+  }
+ ]
+}
