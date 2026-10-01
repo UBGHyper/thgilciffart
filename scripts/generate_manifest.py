@@ -106,7 +106,7 @@ def build_native_subjects():
             # <Subject>/<Category>/[.../]<School>/<file>.pdf -- any extra folders between
             # category and school (e.g. "Y11 Internals/Preliminary HY") get folded into the
             # category label; the LAST intermediate folder is always treated as the school.
-            category = " — ".join(intermediate[:-1])
+            category = " / ".join(intermediate[:-1])
             school = intermediate[-1]
             subjects[subject]["byCategory"].setdefault(category, {"flat": [], "schools": {}})
             subjects[subject]["byCategory"][category]["schools"].setdefault(school, []).append(entry)

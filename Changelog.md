@@ -39,14 +39,5 @@
 
 ### 01/10/2026
 
-- Added a browsable front end (`index.html`) with search and dark mode — no more
-  digging through raw folders.
-- Added 18 subjects from THSC Online that weren't hosted here: Agriculture, Ancient
-  History, Business Studies, Community and Family Studies, Earth and Environmental
-  Science, Economics, Engineering Studies, English (Paper 1 & 2), History Extension,
-  Information Processes and Technology, Legal Studies, Modern History, PDHPE, Senior
-  Science, Software Design and Development, Studies of Religion I & II.
-- These are link-only (point at papers already hosted on thsc.zaxu.xyz) rather than
-  copied into the repo -- see `NOTICE.md`.
-- Existing native subjects (Biology, Chemistry, Physics, Mathematics x4, Miscellaneous)
-  now each show a "more trials on THSC" link alongside their existing hosted papers.
+- Added a search and browse page (`index.html`)
+- Added 18 subjects from THSC as links to thsc.zaxu.xyz (see `NOTICE.md`)

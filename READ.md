@@ -4,9 +4,7 @@
 
 # Browsing
 
-This repo is served as a static site — open `index.html` to search and browse by
-subject, school and year instead of digging through folders. See [NOTICE.md](NOTICE.md)
-for how hosted vs. linked papers are licensed.
+Open `index.html` to search by subject and school. See [NOTICE.md](NOTICE.md).
 
 # Credit
 
