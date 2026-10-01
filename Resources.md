@@ -1,6 +1,7 @@
 Here are links to some useful resources
 
 - [THSC](https://thsconline.github.io/s/) contains past papers for most if not all subjects
+- [thsc.zaxu.xyz](https://thsc.zaxu.xyz/) is the mirror this site links out to for subjects not hosted here directly (see `index.html`)
 
 # Mathematics
 
