@@ -39,5 +39,6 @@
 
 ### 01/10/2026
 
-- Added a search and browse page (`index.html`)
-- Added 18 subjects from THSC as links to thsc.zaxu.xyz (see `NOTICE.md`)
+- Added a search and browse page (`index.html`), sorted by year and exam
+- Added 17 subjects from THSC as links to thsc.zaxu.xyz (see `NOTICE.md`)
+- Linked about 590 THSC papers missing from existing subjects

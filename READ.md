@@ -4,7 +4,7 @@
 
 # Browsing
 
-Open `index.html` to search by subject and school. See [NOTICE.md](NOTICE.md).
+Browse at [ubghyper.github.io/thgilciffart](https://ubghyper.github.io/thgilciffart/). See [NOTICE.md](NOTICE.md).
 
 # Credit
 

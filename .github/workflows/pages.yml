@@ -1,0 +1,39 @@
+name: Deploy site
+
+on:
+  push:
+    branches: [main]
+    paths: ["index.html", "assets/**", "data/**", ".github/workflows/pages.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      # The repo holds ~7 GB of PDFs; Pages caps sites at 1 GB, so only the site files are published.
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            index.html
+            assets
+            data
+          sparse-checkout-cone-mode: false
+      - run: mkdir _site && cp -r index.html assets data _site/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
